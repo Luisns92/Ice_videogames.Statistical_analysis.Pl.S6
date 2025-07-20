@@ -1,2 +1,2 @@
-# Sprint-6-Proyecto-Integral-python.pandas
+# Proyecto Integral Python Pandas
 Analisis de una empresa de videojuegos con python y librerias como pandas, mathplotlib...
